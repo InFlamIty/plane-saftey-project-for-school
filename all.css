@@ -1,0 +1,95 @@
+body
+{
+    background-image: linear-gradient(to right top, rgb(0, 255, 0), rgb(54, 255, 54), rgb(141, 255, 141), rgb(210, 255, 210), white);
+    height: 100%;
+}
+#helicopter
+{
+    width: 800px;
+    height: 480px;
+}
+#plane
+{
+    width: 800px;
+    height: 480px;
+}
+#table_of_content
+{
+    font-size: 35px;
+}
+#make_this_bold1
+{
+    font-size: 35px;
+}
+#make_this_bold2
+{
+    font-size: 35px;
+}
+#make_this_bold3
+{
+    font-size: 35px;
+}
+#make_this_bold4
+{
+    font-size: 35px;
+}
+#make_this_bold5
+{
+    font-size: 35px;
+}
+#plane1
+{
+    width: 800px;
+    height: 480px;
+}
+#plane2
+{
+    width: 800px;
+    height: 480px;
+}
+#plane3
+{
+    width: 800px;
+    height: 480px;
+}
+#plane4
+{
+    width: 800px;
+    height: 480px;
+}
+#helicopter1
+{
+    width: 800px;
+    height: 480px;
+}
+#helicopter2
+{
+    width: 800px;
+    height: 480px;
+}
+#helicopter3
+{
+    width: 800px;
+    height: 480px;
+}
+#make_this_bold6
+{
+    font-size: 35px;
+}
+#helicopter4
+{
+    width: 800px;
+    height: 480px;
+}
+#make_this_bold7
+{
+    font-size: 35px;
+}
+#helicopter5
+{
+    width: 800px;
+    height: 480px;
+}#make_this_bold8
+{
+    font-size: 35px;
+}
